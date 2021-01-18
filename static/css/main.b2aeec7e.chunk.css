@@ -1,0 +1,2 @@
+html{font-family:"Courier New",Courier,monospace}.header__title{display:grid;grid-template-rows:-webkit-max-content 25px;grid-template-rows:max-content 25px;justify-content:start;padding-bottom:10px}.header__title button{width:200px}.list__item{display:flex;justify-content:space-between;width:150px;padding:10px}.list__item--selected{color:red;background-color:#ff0}
+/*# sourceMappingURL=main.b2aeec7e.chunk.css.map */
